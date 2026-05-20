@@ -55,7 +55,7 @@ Detailed URLs for each source are listed in the data sources section of the acco
 
 1. Clone the repository and create the data directories:
 ```bash
-   git clone https://github.com/<your-username>/gold-vs-bitcoin-inflation-hedge.git
+   git clone https://github.com/yannickscherb/gold-vs-bitcoin-inflation-hedge.git
    cd gold-vs-bitcoin-inflation-hedge
    mkdir -p data/raw data/processed
 ```
