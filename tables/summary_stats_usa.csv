@@ -1,0 +1,7 @@
+Variable,Obs,Mean,Median,Std Dev,Min,Max
+Gold Nominal Return,119,1.22,0.48,4.06,-8.19,11.91
+Bitcoin Nominal Return,119,6.7,2.83,20.86,-37.29,65.2
+Gold Real Return,119,0.96,0.3,4.1,-8.31,11.61
+Bitcoin Real Return,119,6.44,2.46,20.89,-38.54,64.82
+CPI YoY Inflation,120,3.14,2.54,2.09,0.2,8.98
+Policy Rate,120,2.19,1.69,1.91,0.05,5.33
